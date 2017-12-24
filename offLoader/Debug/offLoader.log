@@ -1,0 +1,32 @@
+﻿生成启动时间为 2017/12/15 18:46:53。
+     1>项目“D:\code\VS2015\offLoader\offLoader\offLoader.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 2015\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp offLoader.cpp
+         offLoader.cpp
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(44): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(229): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(297): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(319): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(331): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(352): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(471): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\code\vs2015\offloader\offloader\offloader.cpp(478): warning C4018: “<”: 有符号/无符号不匹配
+         main.cpp
+     1>d:\code\vs2015\offloader\offloader\main.cpp(334): warning C4101: “mainmenu”: 未引用的局部变量
+     1>d:\code\vs2015\offloader\offloader\main.cpp(333): warning C4101: “texturemenu”: 未引用的局部变量
+         正在生成代码...
+       Link:
+         D:\Microsoft Visual Studio 2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\code\VS2015\offLoader\Debug\offLoader.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Microsoft Visual Studio 2015\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"D:\code\VS2015\offLoader\Debug\offLoader.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\code\VS2015\offLoader\Debug\offLoader.lib" /MACHINE:X86 Debug\main.obj
+         Debug\offLoader.obj
+         offLoader.vcxproj -> D:\code\VS2015\offLoader\Debug\offLoader.exe
+     1>已完成生成项目“D:\code\VS2015\offLoader\offLoader\offLoader.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.60
